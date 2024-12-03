@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<p align="left">👋 Hey, I'm ReverseArt, a passionate payload architect and ethical hacker specializing in malware development, stealth payloads, and botnet research. With a keen eye for crafting undetectable threats and analyzing vulnerabilities, I’m on a mission to push the boundaries of cybersecurity. When I'm not tinkering with FUD techniques or studying reverse engineering, I’m constantly learning new frameworks and strengthening my skills to stay ahead of the curve. Connect with me for insights on payloads, stealers, and malware analysis—I’m here to educate and collaborate in the world of ethical hacking!</p>
 
 ###
 
@@ -43,24 +43,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ReverseArt/ReverseArt/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">👋 Hey, I'm ReverseArt, a passionate payload architect and ethical hacker specializing in malware development, stealth payloads, and botnet research. With a keen eye for crafting undetectable threats and analyzing vulnerabilities, I’m on a mission to push the boundaries of cybersecurity. When I'm not tinkering with FUD techniques or studying reverse engineering, I’m constantly learning new frameworks and strengthening my skills to stay ahead of the curve. Connect with me for insights on payloads, stealers, and malware analysis—I’m here to educate and collaborate in the world of ethical hacking!</p>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
