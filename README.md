@@ -16,6 +16,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://media.tenor.com/kkkBm71bkRcAAAAi/trollface-troll-face-terror-png.gif"  />
+
+###
+
 <div align="left">
   <a href="https://t.me/ThreatAlert" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
@@ -23,14 +29,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media.tenor.com/kkkBm71bkRcAAAAi/trollface-troll-face-terror-png.gif"  />
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReverseArt&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
