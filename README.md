@@ -16,15 +16,19 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/kkkBm71bkRcAAAAi/trollface-troll-face-terror-png.gif"  />
-
-###
-
 <div align="left">
   <a href="https://t.me/ThreatAlert" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/kkkBm71bkRcAAAAi/trollface-troll-face-terror-png.gif"  />
+
+###
+
+<p align="left">Hi, I'm ReverseArt – a skilled penetration tester and developer with expertise in creating FUD stealers, configs, and web solutions. I specialize in Python, PHP, and cybersecurity, focusing on crafting fully undetectable tools. Additionally, I have experience with botnet development, Remote Access Trojans (RATs), and comprehensive security guides.</p>
 
 ###
 
