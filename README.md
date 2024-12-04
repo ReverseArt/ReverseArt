@@ -1,9 +1,51 @@
+<h2 align="left">🔪Hi, I'm ReverseArt – a penetration tester, FUD stealer/config creator, web developer, Python/PHP expert, and RAT/botnet specialist.</h2>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ReverseArt&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ReverseArt&theme=shadow_red&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReverseArt&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://t.me/ThreatAlert" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media.tenor.com/kkkBm71bkRcAAAAi/trollface-troll-face-terror-png.gif"  />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReverseArt&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Thats It Gays*</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/oP3qlpkxjyMAAAAi/troll-face-terror-png-trollface.gif"  />
+</div>
+
+###
